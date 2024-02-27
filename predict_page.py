@@ -15,7 +15,7 @@ le_country = data["le_country"]
 le_education = data["le_education"]
 
 def show_predict_page():
-    st.title("Software Developer Salary Prediction")
+    st.title("TechToTeach - Software Developer Salary Prediction")
 
     st.write("""### We need some information to predict the salary""")
 
@@ -56,4 +56,4 @@ def show_predict_page():
         X = X.astype(float)
 
         salary = regressor.predict(X)
-        st.subheader(f"The estimated salary is ${salary[0]:.2f}")
+        st.subheader(f"The estimated salary is less then or equal to : ${salary[0]:.2f}")
