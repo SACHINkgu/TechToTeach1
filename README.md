@@ -22,6 +22,5 @@ This repository contains the source code for a predictive salary analysis web ap
   
 
 
-Project Made by Sachin Kumar Gupta & Yash Kumar Singh.
 
 
