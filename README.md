@@ -19,7 +19,10 @@ This repository contains the source code for a predictive salary analysis web ap
 - Python 3.x
 - pip package manager
 - Streamlit
-  
+
+## Interface
+  ![Screenshot 2024-04-27 052641](https://github.com/SACHINkgu/TechToTeach1/assets/90194058/d7fa1dfc-81d3-4e7f-9b3d-1e9103a56fe3)
+
 
 
 
