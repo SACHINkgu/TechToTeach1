@@ -26,7 +26,8 @@ This repository contains the source code for a predictive salary analysis web ap
 ## Contributors
 - Sachin Kumar Gupta
 - Yash Kumar Singh
-
+## Project Report 
+- https://drive.google.com/file/d/1u2FECZSPtXvYjrJOLh5Vk9imZbyYQBGc/view?usp=sharing
 
 
 
